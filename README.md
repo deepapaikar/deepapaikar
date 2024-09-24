@@ -1,11 +1,14 @@
-# Hi there 👋 I'm Deepa
+# Hi there 👋 I'm Deepa Paikar
 
-I'm a Machine Learning Scientist/Data Scientist based in New York City. I have experience in Applied Machine Learning, Computer Vision, Natural Language Processing, and Python programming.
+I'm a Machine Learning Engineer with over **6 years** of experience in **Generative AI**, **Retrieval-Augmented Generation (RAG)**, **Embedding Models**, and **full-stack development**. Based in New York City, I specialize in developing custom AI solutions, **fine-tuning Large Language Models (LLMs)**, **prompt engineering**, and integrating these into production using **Docker** and **Kubernetes**. I'm proficient in both front-end and back-end development, with a focus on enhancing system scalability, reliability, and managing complex projects from concept to deployment.
 
+
+## 🚀 What I'm Currently Doing
 <br />
 
-- 💬 Ask me anything about machine learning to NLP
-- 👨‍🏫 Research Assistant at Katz School of Science and Health
+- 🤖 Generative AI Freelancer: Working on cutting-edge AI projects, specializing in Generative AI, RAG, LLMs, Embedding Models, and intelligent Agents.
+- 👨‍🏫 Research Assistant at Katz School of Science and Health: Engaged in advanced research in AI and Machine Learning, contributing to academic publications and innovative projects.
+- 💬 Ask me anything about Machine Learning and NLP: I'm always open to discussions, collaborations, and sharing knowledge in these fields.
   
 <br />
 
@@ -16,20 +19,12 @@ I'm a Machine Learning Scientist/Data Scientist based in New York City. I have e
 ## 🌎 Connect with me
 
 <div align="center">
-<a href="https://github.com/deepapaikar" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/[manishkumarthota](https://www.linkedin.com/in/deepapaikar/)/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<div align="center"> <a href="https://github.com/deepapaikar" target="_blank"> <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/deepapaikar/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://www.kaggle.com/deepapaikar" target="_blank"> <img src="https://img.shields.io/badge/Kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /> </a> <a href="https://www.researchgate.net/profile/Deepa-Paikar" target="_blank"> <img src="https://img.shields.io/badge/ResearchGate-%230077B5.svg?&style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" /> </a> <a href="https://huggingface.co/deepapaikar" target="_blank"> <img src="https://img.shields.io/badge/HuggingFace-%23FFB000.svg?&style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace" /> </a> </div>
 
-<a href="https://www.kaggle.com/deepapaikar" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a> 
- 
-</a>
 </div> 
 <br>
 <br>
+
 
 ## 💻 My Skill Set  
 <div align="center">   
