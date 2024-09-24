@@ -5,7 +5,6 @@ I'm a Machine Learning Scientist/Data Scientist based in New York City. I have e
 <br />
 - 💬 Ask me anything about machine learning to NLP
 - 👨‍🏫 Research Assistant at Katz School of Science and Health
-
 <br />
 
 ### <div align="center">| Mathematics | Data Science | Machine Learning | Deep Learning | Computer Vision | Natural Language Processing | Artificial Intelligence |</div> 
